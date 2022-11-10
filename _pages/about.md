@@ -16,27 +16,21 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a student.
+I am a Ph.D. student in Computer Science at State Key Lab of CAD & CG of Zhejiang University, advised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/).
+Before that, I got my bachelor degree in Automation Engineering from Xi'an Jiaotong University.
+I used to work with [Prof. Xueming Qian](http://www.smiles-xjtu.com/).
+
+My research interests lie in image retrieval, visual localization, and reconstruction.
 
 # 📝 Publications 
-
-{%<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>%}
-
-- [Lorem ipsum dolor sit amett](https://github.com), A, B, C, **2020**
+- [Deep transfer hashing for image retrieval](https://ieeexplore.ieee.org/abstract/document/9082051/), **Hongjia Zhai**, Shenqi Lai, Hanyang Jin, Xueming Qian, Tao Mei, **TCSVT 2021**
+- [BDLoc: Global Localization from 2.5 D Building Map](https://ieeexplore.ieee.org/abstract/document/9583806/), Hai Li, Tianxing Fan, **Hongjia Zhai**, Zhaopeng Cui, Hujun Bao, Guofeng Zhang, **ISMAR 2021**
+- [ARCargo: Multi-Device Integrated Cargo Loading Management System with Augmented Reality](https://ieeexplore.ieee.org/abstract/document/9730267/), Tianxiang Zhang, Chong Bao, **Hongjia Zhai**, Jiazhen Xia, Weicai Ye, Guofeng Zhang, **CyberSciTech 2021**
+- [Vox-Fusion: Dense Tracking and Mapping with Voxel-based Neural Implicit Representation](https://arxiv.org/abs/2210.15858), Xingrui Yang, Hai Li, **Hongjia Zhai**, Yuhang Ming, Yuqian Liu, Guofeng Zhang, **ISMAR 2022**
 
 # 📖 Educations
-- *2020.09 - (now)*, Zhejiang University. 
-- *2016.09 - 2020.06*, Bachelor's Degree in Automation Engineering at Xi'an Jiaotong University.. 
+- *2020.09 - (now)*, Ph.D in Computer Science at State Key Lab of CAD & CG of Zhejiang University. 
+- *2016.09 - 2020.06*, B.Eng in Automation Engineering at Xi'an Jiaotong University.
 
 # 💻 Internships
-- *2022.02 - 2022.10*, [SenseTime](https://github.com/), Hangzhou.
+- *2022.02 - 2022.10*, [SenseTime, AutoDriving Group](https://www.sensetime.com/cn), Hangzhou.

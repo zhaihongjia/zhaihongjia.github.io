@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Hongjia Zhai"
 description              : "Hongjia Zhai's Homepage"
-repository               : "zhaihongjia/zhaihongjia---.github.io"
+repository               : "zhaihongjia/zhaihongjia.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,7 +27,7 @@ author:
   location         : "Hongzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=alXpF8wAAAAJ" # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            :  # "Lorem@ipsum.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : zhaihongjia----- # e.g., "github username"
+  github           : zhaihongjia # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
