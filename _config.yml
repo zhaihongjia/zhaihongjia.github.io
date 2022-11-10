@@ -62,7 +62,7 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _pagesxx
   - files
 exclude:
   - docs
