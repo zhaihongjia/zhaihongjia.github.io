@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hongjia Zhai"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/zhj.jpg"
   bio              : "zhjsmileeveryday[at]gmail.com"
   location         : "Hongzhou, China"
   employer         :
@@ -62,7 +62,7 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pagesxx
+  - _pages
   - files
 exclude:
   - docs
