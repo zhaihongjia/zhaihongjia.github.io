@@ -217,7 +217,7 @@ render_project(
 render_project(
     project_name='NIS-SLAM',
     figure_path='./assets/projects/nis_slam.png',
-    title_name='NIS-SLAM: Neural implicit semantic rgb-d slam for 3d consistent scene understanding',
+    title_name='NIS-SLAM: Neural Implicit Semantic RGB-D SLAM for 3D Consistent Scene Understanding',
     author_list=[
         'Hongjia Zhai',
         'Xiyu Zhang',
@@ -238,7 +238,7 @@ render_project(
 render_project(
     project_name='Vox-Fusion++',
     figure_path='./assets/projects/vox_fusion++.png',
-    title_name='Vox-Fusion++: Voxel-based neural implicit dense tracking and mapping with multi-maps',
+    title_name='Vox-Fusion++: Voxel-based Neural Implicit Dense Tracking and Mapping with Multi-maps',
     author_list=[
         'Hongjia Zhai', 'equal',
         'Hai Li', 'equal',
@@ -353,7 +353,7 @@ render_project(
 render_project(
     project_name='BDLoc',
     figure_path='./assets/projects/bdloc.png',
-    title_name='BDLoc: Global Localization from 2.5 D Building Map',
+    title_name='BDLoc: Global Localization from 2.5D Building Map',
     author_list=[
         'Hai Li',
         'Tianxing Fan',
