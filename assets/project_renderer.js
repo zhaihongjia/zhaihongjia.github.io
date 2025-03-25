@@ -192,7 +192,8 @@ render_project(
         'Guofeng Zhang', 'corresponding',
     ],
     material_list=[
-        ['ICRA 2025', ''],
+        ['ICRA 2025', 'https://arxiv.org/abs/2503.06117'],
+        ['Project', 'https://zju3dv.github.io/neuraloc/'],
     ],
     award_name=null,
 );
