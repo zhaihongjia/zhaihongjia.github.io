@@ -10,8 +10,7 @@ function render_project(project_name,
     for (var proj_idx = 0; proj_idx < list.length; proj_idx++) {
         var img = document.createElement('img');
         img.src = figure_path;
-        img.setAttribute('style',
-                        'width: 100%; max-height: 120px; object-fit: cover;');
+        img.setAttribute('style', 'width: 100%; max-height: 120px; object-fit: cover;');
 
         var title = document.createElement('div');
         title.setAttribute('class', 'title');
@@ -149,7 +148,9 @@ render_project(
         'Guofeng Zhang', 'corresponding',
     ],
     material_list=[
-        ['CVPR 2025', ''],
+        ['CVPR 2025', 'https://arxiv.org/abs/2503.18107'],
+        ['Project', 'https://zju3dv.github.io/panogs/'],
+        ['Code', 'https://github.com/zhaihongjia/PanoGS']
     ],
     award_name=null,
 );
